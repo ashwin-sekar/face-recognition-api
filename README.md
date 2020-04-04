@@ -9,3 +9,5 @@ Before running ensure you have install postgresql and modify the file informatio
 
 Add your own clarifai key in `controllers/image.js`
 You can grab your key from [here](https://www.clarifai.com/)
+
+**run on port 3000
